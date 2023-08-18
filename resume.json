@@ -1,0 +1,147 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Experience",
+    "awards": "",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects [Check out more on https://github.com/ANANTH-SWAMY]"
+  },
+  "basics": {
+    "name": "Ananth Krishnaswamy",
+    "email": "ananth.gnr@gmail.com",
+    "phone": "+919480260002",
+    "location": {
+      "address": "Bengaluru, India"
+    },
+    "website": "ananth.is-a.dev"
+  },
+  "education": [
+    {
+      "institution": "National Public School, Rajajinagar",
+      "location": "Bengaluru, India",
+      "area": "",
+      "endDate": "2022",
+      "studyType": "High School Diploma, PCMC",
+      "startDate": "2008"
+    },
+    {
+      "institution": "PES University",
+      "location": "Bengaluru, India",
+      "studyType": "BTech",
+      "area": "Computer Science Engineering",
+      "startDate": "2022",
+      "endDate": "2026"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "startDate": "2023",
+      "endDate": "Present",
+      "highlights": [
+        "Handling event and conducting hackathons.",
+        "Mentoring students."
+      ],
+      "company": "HackerSpace PESU",
+      "position": "Core Team Member/ Mentor(Webdev, Linux)",
+      "location": "PES University"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": [
+        "Scripting, AI/ML, Gamedev, OpenCV, PyQt5."
+      ]
+    },
+    {
+      "keywords": [
+        "Proficient in making website with HTML. and CSS3"
+      ],
+      "name": "HTML/CSS"
+    },
+    {
+      "keywords": [
+        "Ablity to script websites."
+      ],
+      "name": "JavaScript"
+    },
+    {
+      "keywords": [
+        "Comfortable to with C code."
+      ],
+      "name": "C"
+    },
+    {
+      "keywords": [
+        "Comfortable with using linux systems for adminstration and setting up servers."
+      ],
+      "name": "Linux"
+    },
+    {
+      "keywords": [
+        "Ability to write small shell scripts to automate tasks."
+      ],
+      "name": "Bash/ Powershell"
+    },
+    {
+      "keywords": [
+        "Ability to retrieve from and update databses. and manage them."
+      ],
+      "name": "MySQL"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Raycaster",
+      "keywords": [
+        "Python, Pygame"
+      ],
+      "description": "A proof of concept raycaster like the one used in the game wolfenstein 3d.",
+      "url": "https://github.com/ANANTH-SWAMY/raycaster"
+    },
+    {
+      "keywords": [
+        "Python, OpenCV, Mediapipe"
+      ],
+      "name": "Gesture detection",
+      "description": "A program with counts the number of fingers opened using your camera.",
+      "url": "https://github.com/ANANTH-SWAMY/NUMBER-DETECTION-WITH-MEDIAPIPE"
+    },
+    {
+      "keywords": [
+        "HTML, CSS, JavaScript"
+      ],
+      "url": "https://github.com/ANANTH-SWAMY/custom-startpage-for-browser",
+      "name": "Custom Startpage",
+      "description": "A webpage which can be used as the startpage in a browser"
+    },
+    {
+      "keywords": [
+        "Python , PyQt55, MySQL"
+      ],
+      "name": "Library Management System",
+      "description": "A full fledged system to maintain and manage a library with includes issuing and maintain a record of books.",
+      "url": "https://github.com/ANANTH-SWAMY/library-management-system"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
