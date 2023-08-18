@@ -120,10 +120,10 @@
     },
     {
       "keywords": [
-        "Python , PyQt55, MySQL"
+        "Python , PyQt5, MySQL"
       ],
       "name": "Library Management System",
-      "description": "A full fledged system to maintain and manage a library which includes issuing and maintain a record of books.",
+      "description": "A full fledged system to maintain and manage a library which includes issuing and maintaining a record of books.",
       "url": "https://github.com/ANANTH-SWAMY/library-management-system"
     }
   ],
