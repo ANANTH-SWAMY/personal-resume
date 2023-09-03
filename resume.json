@@ -5,7 +5,7 @@
     "awards": "",
     "education": "Education",
     "skills": "Skills",
-    "projects": "Projects [Check out more on https://github.com/ANANTH-SWAMY]"
+    "projects": "Projects [Check out more on https://github.com/ANANTH-SWAMY ]"
   },
   "basics": {
     "name": "Ananth Krishnaswamy",
@@ -53,7 +53,7 @@
       "name": "Python",
       "level": "",
       "keywords": [
-        "Scripting, AI/ML, Gamedev, OpenCV, PyQt5."
+        "Scripting, Gamedev, OpenCV, PyQt5."
       ]
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "keywords": [
-        "Comfortable to code with C."
+        "Comfortable to code with C"
       ],
       "name": "C"
     },
