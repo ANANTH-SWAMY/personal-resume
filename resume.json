@@ -40,7 +40,7 @@
       "startDate": "2023",
       "endDate": "Present",
       "highlights": [
-        "Handling event and conducting hackathons.",
+        "Handling events and conducting hackathons.",
         "Mentoring students."
       ],
       "company": "HackerSpace PESU",
@@ -107,7 +107,7 @@
         "Python, OpenCV, Mediapipe"
       ],
       "name": "Gesture detection",
-      "description": "A program with counts the number of fingers opened using your camera.",
+      "description": "A program which counts the number of fingers opened using your camera.",
       "url": "https://github.com/ANANTH-SWAMY/NUMBER-DETECTION-WITH-MEDIAPIPE"
     },
     {
